@@ -1,0 +1,15 @@
+D:\GB\homework5\zadacha38\obj\Debug\net6.0\zadacha38.csproj.AssemblyReference.cache
+D:\GB\homework5\zadacha38\obj\Debug\net6.0\zadacha38.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\homework5\zadacha38\obj\Debug\net6.0\zadacha38.AssemblyInfoInputs.cache
+D:\GB\homework5\zadacha38\obj\Debug\net6.0\zadacha38.AssemblyInfo.cs
+D:\GB\homework5\zadacha38\obj\Debug\net6.0\zadacha38.csproj.CoreCompileInputs.cache
+D:\GB\homework5\zadacha38\bin\Debug\net6.0\zadacha38.exe
+D:\GB\homework5\zadacha38\bin\Debug\net6.0\zadacha38.deps.json
+D:\GB\homework5\zadacha38\bin\Debug\net6.0\zadacha38.runtimeconfig.json
+D:\GB\homework5\zadacha38\bin\Debug\net6.0\zadacha38.dll
+D:\GB\homework5\zadacha38\bin\Debug\net6.0\zadacha38.pdb
+D:\GB\homework5\zadacha38\obj\Debug\net6.0\zadacha38.dll
+D:\GB\homework5\zadacha38\obj\Debug\net6.0\refint\zadacha38.dll
+D:\GB\homework5\zadacha38\obj\Debug\net6.0\zadacha38.pdb
+D:\GB\homework5\zadacha38\obj\Debug\net6.0\zadacha38.genruntimeconfig.cache
+D:\GB\homework5\zadacha38\obj\Debug\net6.0\ref\zadacha38.dll
